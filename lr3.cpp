@@ -7,7 +7,7 @@ int main()
 {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
-	int FN, SN, FD1, FD2, SD1, SD2, x, y; 
+	int FN, SN, FD1, FD2, SD1, SD2, x, y; // FN - FirstNum, SN - SecondNum, OD - FirstDigit, SD - SecondDigit
 	cout << "Введіть перше двозначне число: ";
 	cin >> FN;
 	cout << "Введіть друге двозначне число: ";
