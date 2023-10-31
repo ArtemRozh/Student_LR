@@ -8,7 +8,7 @@ int main()
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
     int y, k;
-    float res,  mult = 1;
+    float res,  mult = 1; // res - result, mult - multiplication
     cout << "Введіть першу змінну k\nk = ";
     cin >> k;
     cout << "Введіть другу змінну y\ny = ";
